@@ -30,10 +30,10 @@ This is what I look like, clean shaven:
 *-Albert Einstein*
 
 Here is an example of some code showing how to get an array started in javascript:
-'''javascript
+```javascript
 const nums = [1, 2, 3];
 const strs = Array.from('est');
-'''
+```
 
 There are pros and cons of adopting a cat.
 
