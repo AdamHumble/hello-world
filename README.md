@@ -1,44 +1,25 @@
 # hello-world
-###My First Repository
 
-This is my first time really using **[GitHub](http://github.com)**, though I've had an account for years. This tutorial is really helping me understand how it all works.
+* Description: hello-world is the typical first-time practice repo. It helps new users understand how the Git process works.
 
-I've been interested in computer science for as long as I can remember, over 30 years. I've always been fascinated by technology and love to 
-create things.
+* *Table of Contents:* 
+	* Readme.md
+	* Wiki
 
-*Things to consider while using Markdown:*
-1. This is an ordered list
-2. The second part of the ordered list
-	1. This is the sub-ordered list
-	2. This is the second part
+* Installation: There is currently no physical program to install. This is coming in the future!
 
-*You can also make unordered lists like this:*
-* Hamsters have fur
-* Snakes have skin
-* Attributes may listed
-	* And sub-listed
-	* Like this
+* Usage: Since there is still no program to install, there will concurrently be no usage.
 
-Markdown can be very *__useful__*.
+* Contributing: We appreciate all our contributors. As the policy is still being developed, please feel free to contribute by opening a PR.
+
+* Credits: 
+	* Adam Humble is currently the only author.
+
+* License: Free to use. Please contribute if you can!
 
 This is what I look like, clean shaven:
+
 ![My Mugshot](AdamFacePic.jpg)
 
-> Doing the same thing over and over again
-> and expecting different results
-> is the definition of insanity.
-*-Albert Einstein*
 
-Here is an example of some code showing how to get an array started in javascript:
-```javascript
-const nums = [1, 2, 3];
-const strs = Array.from('est');
-```
-
-There are pros and cons of adopting a cat.
-
-Pros | Cons
----- | ----
-Automatic Pest Control | Lots of Hairballs
-Low Maintenance Pet | Cleaning Litterboxes Is Not Fun
 
