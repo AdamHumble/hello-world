@@ -1,5 +1,5 @@
 # hello-world
-######My First Repository
+###My First Repository
 
 This is my first time really using **[GitHub](http://github.com)**, though I've had an account for years. This tutorial is really helping me understand how it all works.
 
